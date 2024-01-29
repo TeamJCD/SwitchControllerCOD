@@ -1,0 +1,7 @@
+id=SwitchControllerCOD
+name=SwitchController COD
+version=1.0.0
+versionCode=1
+author=TeamJCD
+description=Let your device act as a Switch Controller
+updateJson=https://raw.githubusercontent.com/TeamJCD/SwitchControllerCOD/master/update.json
